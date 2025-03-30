@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&random=true&width=435&lines=Hey+there%2C+I'm+GuruProger;I+am+engaged+in+python+development)](https://git.io/typing-svg)
 ![Header](assets/header.gif)
 
-<h2 align="center"> 🏆 Achievements</h2>  
+## <h2 align="center"> 🏆 Achievements</h2>  
 
 - 🥇 **1st Place Winner** of the **"ExpoHack" Hackathon**
   I accepted the post of Python and Machine Learning Developer, where I was responsible for the data processing and
@@ -16,3 +16,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GuruProger&theme=black-ice">   </p>
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruProger&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_border=true&layout=compact"/>   </p>
+
+## <h2 align="center">🌱 Contribution Graph</h2>
+  
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuruProger&theme=github-compact)
