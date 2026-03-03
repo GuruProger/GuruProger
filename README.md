@@ -3,11 +3,13 @@
 
 ## <h2 align="center"> 🏆 Achievements</h2>  
 
-- 🥇 **1st Place Winner** of the **"ExpoHack" Hackathon**
-  I accepted the post of Python and Machine Learning Developer, where I was responsible for the data processing and
-  developing machine learning models to
-  address [Read more about the hackathon](https://habr.com/ru/articles/842786/)
+- 🥇 **1st Place Winner** of the **["ExpoHack" Hackathon](https://habr.com/ru/articles/842786/)**
+  
+- 🥈 **2nd Place Winner** of the **[“Vnedreid” Hackathon](https://www.хакатоны.рус/tpost/0kblp5ouv1-vnedreid)**
 
+- 🏅 **Finalist** of the **[“AiChallange”](https://aiijc.com/ru/)**
+
+- 🏅 **Finalist** of the **[“Idea. Code. Release” Hackathon](https://www.хакатоны.рус/tpost/fo8nrxn641-ideya-kod-reliz)**
 ## <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">  
